@@ -38,7 +38,7 @@ I'm always open to contributing to exciting projects or exploring new opportunit
 
 - **📫 Contact Me**: [Email](mcebomthembu9@gmail.com)  
 - **🔗 Connect on LinkedIn**:www.linkedin.com/in/mcebo-mthembu-7852331a1  
-- **🌐 Personal Website**: [Linktree]([(https://linktr.ee/MceboMthembu)) 
+- **🌐 Personal Website**:https://linktr.ee/MceboMthembu
 
 ---
 
