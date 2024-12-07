@@ -26,12 +26,10 @@ Hi, Im Mcebo! I'm a **Computer Science graduate specializing in Application Deve
 Here are a few of my featured projects:
 
 ### [Project Name](https://github.com/your-username/project-repo)
-A brief description of the project, highlighting its purpose and technologies used.  
-**Technologies**: .NET, Azure, SQL, HTML, CSS, JavaScript  
+A brief description of my project
 
 ### [Project Name](https://github.com/your-username/project-repo)
-A brief description of the project, highlighting its purpose and technologies used.  
-**Technologies**: Python, REST API, Cloud Computing  
+A brief description of the project 
 
 ---
 
@@ -39,7 +37,7 @@ A brief description of the project, highlighting its purpose and technologies us
 I'm always open to contributing to exciting projects or exploring new opportunities. Feel free to browse my repositories or reach out if you'd like to collaborate!
 
 - **📫 Contact Me**: [Email](mcebomthembu9@gmail.com)  
-- **🔗 Connect on LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-profile)  
+- **🔗 Connect on LinkedIn**:www.linkedin.com/in/mcebo-mthembu-7852331a1  
 - **🌐 Personal Website**: [Linktree]([(https://linktr.ee/MceboMthembu)) 
 
 ---
