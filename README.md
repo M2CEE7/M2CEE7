@@ -14,7 +14,7 @@ Hi, Im Mcebo! I'm a **Computer Science graduate specializing in Application Deve
 ---
 
 ## 🛠️ **Skills & Technologies**
-- **Programming Languages**: Java, C#, Python, JavaScript  
+- **Programming Languages**: Java, C#, Python, JavaScript, React.js, React, Kotlin  
 - **Frameworks & Tools**: .NET, Azure, SQL, Git, Visual Studio  
 - **Web Development**: HTML, CSS, JavaScript, RESTful APIs  
 - **Cloud Computing**: Microsoft Azure, cloud-based development  
