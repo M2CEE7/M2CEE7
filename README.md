@@ -25,11 +25,12 @@ Hi, Im Mcebo! I'm a **Computer Science graduate specializing in Application Deve
 ## 💼 **Portfolio Highlights**
 Here are a few of my featured projects:
 
-### [Apptivate University Query Management System](https://github.com/M2CEE7/University-Query-Management-System.git)
+
+### [Apptivate University Query Management System](https://github.com/M2CEE7/University-Query-Management-System.git) //Project unavailable currently. Currently migrating project
 This web-based application is designed to streamline the management of user accounts, queries, and system activities within a university setting. The Admin Dashboard provides comprehensive tools for administrators and staff to efficiently oversee and handle various aspects of the system, ensuring a smooth and effective user experience.
 In which I worked on creating the chat functionalitiy, working on the various UI components, working with the API's on the mobile and website.
 ### [FedUp FoodTracker](https://github.com/M2CEE7/FedUpFoodTracker.git)
-FedUp is a mobile application designed to help users manage their food inventory effectively, reduce food waste, and explore recipes based on available ingredients. The app provides an intuitive interface for logging in, managing ingredients, and discovering new recipes. I was responsible for implementing the Recipe API and work on various ingredient adding components in the app. I worked on the settings funtionality in enabling security via biometric authentication. As well as work on the UI and backend for the ingredients screen and the recipe screen. 
+FedUp is a mobile application designed to help users manage their food inventory effectively, reduce food waste, and explore recipes based on available ingredients. The app provides an intuitive interface for logging in, managing ingredients, and discovering new recipes. I was responsible for implementing the Recipe API and work on various ingredient adding components in the app. I worked on the settings funtionality in enabling security via biometric authentication. As well as work on the UI and backend for the ingredients screen and the recipe screen. With the API we created for our app [Here](https://github.com/M2CEE7/FedUpFoodAPI.git)
 ### [Chronos TimeTracker](https://github.com/M2CEE7/ChronosTimeTracker.git)
 Chronos Time Tracker is a comprehensive application designed to help users manage their daily activities efficiently. With features like timesheet entries, Pomodoro timer, and progress tracking, users can maintain a detailed log of their work hours, monitor their progress, and ensure they stay productive throughout the day. I was responsible for the backend behind adding the timesheet entris as well as implementing UI components on the time entry screen and the pomodoro timer. I fully implemented the pomodoro timer that is used to track sessions of activity with users with an ability to have a 5 minute break in between.
 
