@@ -26,7 +26,7 @@ Hi, Im Mcebo! I'm a **Computer Science graduate specializing in Application Deve
 Here are a few of my featured projects:
 
 
-### [Apptivate University Query Management System](https://github.com/M2CEE7/University-Query-Management-System.git) //Project unavailable currently. Currently migrating project
+### [Apptivate University Query Management System](https://github.com/7TrentF/Apptivate_UQMS.git)
 This web-based application is designed to streamline the management of user accounts, queries, and system activities within a university setting. The Admin Dashboard provides comprehensive tools for administrators and staff to efficiently oversee and handle various aspects of the system, ensuring a smooth and effective user experience.
 In which I worked on creating the chat functionalitiy, working on the various UI components, working with the API's on the mobile and website.
 ### [AgriEnergy Connect ](https://github.com/M2CEE7/AgriEnergyConnect.git)
